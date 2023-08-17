@@ -1,0 +1,4 @@
+org.eclipse.jdt.core.formatter.lineSplit=300
+org.eclipse.jdt.core.formatter.comment.line_length=300
+org.eclipse.jdt.core.compiler.problem.missingSerialVersion=warning
+ 
